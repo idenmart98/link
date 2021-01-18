@@ -1,0 +1,6 @@
+venv/
+.vscode/
+settings_local.py
+*.pyc
+src/static
+src/media
